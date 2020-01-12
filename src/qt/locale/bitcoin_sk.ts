@@ -2202,7 +2202,11 @@
         <translation>Potvrďte zmenu adresy</translation>
     </message>
     <message>
+        <source>The address you selected for change is not part of this wallet.Any or all funds in your wallet may be sent to this address.Are you sure ? </source>
+        <translation> Zadaná adresa pre výdavok nie je súčasťou tejto peňaženky.Časť alebo všetky peniaze z peňaženky môžu byť odoslané na túto adresu.Ste si istý ? </translation>
+    </message>
     <message>
+        <source>(no label)</source>
         <translation>(bez popisu)</translation>
     </message>
 </context>
